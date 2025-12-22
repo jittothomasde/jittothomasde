@@ -66,28 +66,6 @@ Master's student in Cybersecurity with 2+ years of industry experience as a Syst
 
 ---
 
-## 🔐 Featured Projects
-
-### **[Secure Document Management System](https://github.com/jitto1/doc-secure)**
-Full-stack application with role-based access control, audit logging, and encryption
-- **Tech**: Angular, .NET Core, MySQL, JWT Authentication
-- **Security**: Input validation, SQL injection prevention, secure file uploads
-- **Features**: Document encryption at rest, activity monitoring, access revocation
-
-### **[Cloud Security Configuration Scanner](https://github.com/jitto1/cloud-security-scanner)**
-Python tool for auditing Google Cloud Platform security configurations
-- **Tech**: Python, Google Cloud SDK, OAuth 2.0
-- **Security**: IAM policy analysis, bucket permission checks, compliance validation
-- **Output**: PDF reports with risk assessment and remediation steps
-
-### **[Vulnerability Assessment Dashboard](https://github.com/jitto1/vuln-dashboard)**
-Web interface for tracking and managing security vulnerabilities
-- **Tech**: React, FastAPI, PostgreSQL, Docker
-- **Features**: CVE database integration, risk scoring, remediation tracking
-- **Security**: API rate limiting, secure session management, data encryption
-
----
-
 ## 📊 GitHub Metrics
 
 <div align="center">
@@ -109,15 +87,6 @@ Web interface for tracking and managing security vulnerabilities
 | EC-Council Certified Secure Computer User | EC-Council | 2023 |
 | Architecting with Google Compute Engine | Google Cloud | 2023 |
 | Web Design for Everybody Specialization | University of Michigan | 2022 |
-
----
-
-## 📝 Technical Writing & Contributions
-
-- **Blog**: Regular posts on secure coding practices and cybersecurity insights
-- **Open Source**: Active contributions to security-focused repositories
-- **Documentation**: Comprehensive READMEs with security considerations
-- **Code Reviews**: Focus on identifying security vulnerabilities in peer code
 
 ---
 
