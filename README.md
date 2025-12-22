@@ -1,16 +1,153 @@
-## Hi there 👋
+# Jitto Thomas | Software Engineer & Cybersecurity Specialist
 
-<!--
-**jittothomasde/jittothomasde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Cybersecurity Candidate @ Saarland University | Full-Stack Developer | Security-Focused Engineer**
 
-Here are some ideas to get you started:
+📍 Saarbrücken, Germany | 📧 jittothomasde@gmail.com | 🔗 [Portfolio](https://jitto1.github.io/MyCV/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Professional Summary
+
+Master's student in Cybersecurity with 2+ years of industry experience as a Systems Engineer at Infosys, specializing in full-stack development with security-first principles. Skilled in building scalable applications using Angular, .NET Core, and modern cloud technologies while implementing robust security measures. Currently enhancing expertise in cybersecurity through advanced studies at Saarland University.
+
+---
+
+## 🛠️ Technical Expertise
+
+### **Software Development**
+- **Frontend**: Angular, HTML5, CSS3, Bootstrap, JavaScript/TypeScript
+- **Backend**: .NET Core, C#, Python, Laravel (PHP), REST APIs
+- **Databases**: MySQL, SQL Server, Database Design & Optimization
+- **Methodologies**: Agile/Scrum, CI/CD, Microservices, Test-Driven Development
+
+### **Cybersecurity Focus**
+- **Application Security**: OWASP Top 10, Secure SDLC, Threat Modeling
+- **Cloud Security**: Google Cloud Platform, Security Fundamentals
+- **Emerging Tech**: LLM Security Concepts, AI Security Considerations
+- **Certifications**: EC-Council Certified Secure Computer User, Infosys .NET Core Certification
+
+### **DevOps & Tools**
+- Version Control: Git, GitHub/GitLab
+- Containerization: Docker Basics
+- Cloud: Google Compute Engine, AWS Basics
+- Development Tools: VS Code, Visual Studio, Postman
+
+---
+
+## 💼 Professional Experience
+
+### **Work-Student | Full-Stack Developer**
+**Filehub GmbH** | Saarbrücken, Germany | *2024–Present*
+- Develop and maintain full-stack applications using Angular and Laravel
+- Implement secure API integrations with third-party services
+- Design and optimize database schemas for document management systems
+- Apply security best practices throughout the development lifecycle
+
+### **Systems Engineer**
+**Infosys Limited** | Trivandrum & Mysore, India | *2022–2024*
+- Engineered enterprise applications using Angular for frontend and .NET Core for backend
+- Developed RESTful APIs with authentication, authorization, and data validation
+- Collaborated with clients to gather requirements and implement security features
+- Contributed to architectural decisions with focus on scalability and security
+
+---
+
+## 📚 Education
+
+### **Saarland University** | Saarbrücken, Germany
+**Master of Science in Cybersecurity** | *Expected 2026*
+- Current GPA: [Your GPA]
+- Relevant Coursework: Network Security, Cryptography, Secure Software Development, Cloud Security
+
+### **APJ Abdul Kalam Technological University** | Kerala, India
+**Bachelor of Technology in Computer Science & Engineering (Honors)** | *2018–2022*
+- CGPA: 8.47/10
+- Academic Excellence: Graduated with honors distinction
+
+---
+
+## 🔐 Featured Projects
+
+### **[Secure Document Management System](https://github.com/jitto1/doc-secure)**
+Full-stack application with role-based access control, audit logging, and encryption
+- **Tech**: Angular, .NET Core, MySQL, JWT Authentication
+- **Security**: Input validation, SQL injection prevention, secure file uploads
+- **Features**: Document encryption at rest, activity monitoring, access revocation
+
+### **[Cloud Security Configuration Scanner](https://github.com/jitto1/cloud-security-scanner)**
+Python tool for auditing Google Cloud Platform security configurations
+- **Tech**: Python, Google Cloud SDK, OAuth 2.0
+- **Security**: IAM policy analysis, bucket permission checks, compliance validation
+- **Output**: PDF reports with risk assessment and remediation steps
+
+### **[Vulnerability Assessment Dashboard](https://github.com/jitto1/vuln-dashboard)**
+Web interface for tracking and managing security vulnerabilities
+- **Tech**: React, FastAPI, PostgreSQL, Docker
+- **Features**: CVE database integration, risk scoring, remediation tracking
+- **Security**: API rate limiting, secure session management, data encryption
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  
+![Jitto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitto1&show_icons=true&count_private=true&hide_title=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitto1&layout=compact&theme=github_dark&langs_count=6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jitto1&theme=github-dark-blue)
+  
+</div>
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuing Organization | Year |
+|---------------|---------------------|------|
+| Infosys Certified .NET Core Web API Developer | Infosys Limited | 2023 |
+| EC-Council Certified Secure Computer User | EC-Council | 2023 |
+| Architecting with Google Compute Engine | Google Cloud | 2023 |
+| Web Design for Everybody Specialization | University of Michigan | 2022 |
+
+---
+
+## 📝 Technical Writing & Contributions
+
+- **Blog**: Regular posts on secure coding practices and cybersecurity insights
+- **Open Source**: Active contributions to security-focused repositories
+- **Documentation**: Comprehensive READMEs with security considerations
+- **Code Reviews**: Focus on identifying security vulnerabilities in peer code
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jitto1.github.io/MyCV/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jittothomasde@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jitto-thomas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitto1)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- **Academic Research**: Advanced cybersecurity methodologies at Saarland University
+- **Professional Development**: Enhancing cloud security expertise with GCP/AWS
+- **Technical Skills**: Expanding knowledge in DevSecOps and container security
+- **Community**: Contributing to open-source security projects and cybersecurity forums
+
+---
+
+> "Engineering resilient systems that balance functionality with security.  
+> Every line of code is an opportunity to build defenses."
+
+<div align="right">
+  
+*"Security is not a feature, it's a foundation"*
+
+</div>
