@@ -37,7 +37,7 @@ Master's student in Cybersecurity with 2+ years of industry experience as a Syst
 ## 💼 Professional Experience
 
 ### **Work-Student | Full-Stack Developer**
-**Filehub GmbH** | Saarbrücken, Germany | *2024–Present*
+**Filehub GmbH** | Saarbrücken, Germany | *Aug-Oct 2025*
 - Develop and maintain full-stack applications using Angular and Laravel
 - Implement secure API integrations with third-party services
 - Design and optimize database schemas for document management systems
@@ -55,8 +55,7 @@ Master's student in Cybersecurity with 2+ years of industry experience as a Syst
 ## 📚 Education
 
 ### **Saarland University** | Saarbrücken, Germany
-**Master of Science in Cybersecurity** | *Expected 2026*
-- Current GPA: [Your GPA]
+**Master of Science in Cybersecurity** | *Oct 2024- Current*
 - Relevant Coursework: Network Security, Cryptography, Secure Software Development, Cloud Security
 
 ### **APJ Abdul Kalam Technological University** | Kerala, India
