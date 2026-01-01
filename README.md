@@ -69,10 +69,10 @@ Master's student in Cybersecurity with 2+ years of industry experience as a Syst
 
 <div align="center">
   
-![Jitto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitto1&show_icons=true&count_private=true&hide_title=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitto1&layout=compact&theme=github_dark&langs_count=6)
+![Jitto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jittothomasde&show_icons=true&count_private=true&hide_title=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jittothomasde&layout=compact&theme=github_dark&langs_count=6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jitto1&theme=github-dark-blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jittothomasde&theme=github-dark-blue)
   
 </div>
 
