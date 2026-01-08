@@ -2,7 +2,7 @@
 
 **MSc Cybersecurity Candidate @ Saarland University | Full-Stack Developer | Security-Focused Engineer**
 
-📍 Saarbrücken, Germany | 📧 jittothomasde@gmail.com | 🔗 [Portfolio](https://jitto1.github.io/MyCV/)
+📍 Saarbrücken, Germany | 📧 jittothomasde@gmail.com | 🔗 [Portfolio](https://jittothomasde.github.io/Portfolio/)
 
 ---
 
