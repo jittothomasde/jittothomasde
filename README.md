@@ -69,7 +69,7 @@ Master's student in Cybersecurity with 2+ years of industry experience as a Syst
 
 <div align="center">
   
-![Jitto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jittothomasde&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true)
+![Jitto's GitHub Stats](https://github.com/jittothomasde?tab=overview&from=2025-11-01&to=2025-11-30)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jittothomasde&layout=compact&theme=github_dark&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jittothomasde&theme=github-dark-blue)
