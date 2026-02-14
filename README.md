@@ -36,6 +36,14 @@ Master's student in Cybersecurity with 2+ years of industry experience as a Syst
 
 ## 💼 Professional Experience
 
+### **Work-Student | Data Analyst**
+**Biebelhausener Mühle** | Saarburg, Germany | *Dec 2025- Feb 2026*
+- Performed demand forecasting for bakery products across multiple store locations, using historical sales patterns to optimize daily production and reduce waste
+- Utilized CSB (ERP for food production) and Odoo (inventory & sales modules) to extract, clean, and analyze operational data, ensuring accurate insights for production planning.
+- Built forecasting models to predict item‑level demand, improving stock availability and supporting data‑driven decision‑making for bakery distribution.
+- Identified trends in product performance, seasonal fluctuations, and store‑specific consumption patterns, enabling more efficient supply chain coordination.
+- Troubleshot data inconsistencies across CSB and Odoo systems, applying structured log analysis and validation checks to maintain data integrity.
+
 ### **Work-Student | Full-Stack Developer**
 **Filehub GmbH** | Saarbrücken, Germany | *Aug-Oct 2025*
 - Develop and maintain full-stack applications using Angular and Laravel
