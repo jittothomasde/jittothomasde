@@ -37,7 +37,7 @@ Master's student in Cybersecurity with 2+ years of industry experience as a Syst
 ## 💼 Professional Experience
 
 ### **Work-Student | Data Analyst**
-**Biebelhausener Mühle** | Saarburg, Germany | *Dec 2025- Feb 2026*
+**Biebelhausener Mühle** | Saarburg, Germany | *Dec 2025- Jun 2026*
 - Performed demand forecasting for bakery products across multiple store locations, using historical sales patterns to optimize daily production and reduce waste
 - Utilized CSB (ERP for food production) and Odoo (inventory & sales modules) to extract, clean, and analyze operational data, ensuring accurate insights for production planning.
 - Built forecasting models to predict item‑level demand, improving stock availability and supporting data‑driven decision‑making for bakery distribution.
